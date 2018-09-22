@@ -30,7 +30,10 @@ People in Africa with a phone vs People in Africa with access to Internet
   Affordability challenges limit consumers purchasing broadband 
   Saharan Africa region can only expect full 3G/4G network coverage post-2020, according to an official from Ericsson.
   Out of 47 countries in the region only 30 had limited basic 3G coverage by 2012 (Report from Ericsson).
-  $30-40 cellphone/basic smartphones are available 
+  $30-40 cellphone/basic smartphones are available
+  
+  
+
   
   
   
