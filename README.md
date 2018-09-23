@@ -42,7 +42,49 @@ Compared to first world nations, one of the main reasons for the lower of retent
 Directly affecting school completion rate as well
 
 
+### The Business Plan - Social Business Model Canvas  
+
+Key Resources 
+
+SMS PLatform
+Wolfram API
+Unique Number
+
+Key Activities 
+
+SMS Search 
+
+
+Partners and Key Stakeholders 
+
+
+Types of Intervention
+
+
+ Channels 
+
+
+Segments 
+
+
+Value Proposition
+
+
+Cost Structure
+
+
+Surplus 
+
+Revenue  
+
+
   
+  
+
+  
+  
+ 
+
   
 
   
