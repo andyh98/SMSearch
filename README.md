@@ -39,7 +39,7 @@ Source - World Bank Study - Education in Sub- Saharan Africa - https://openknowl
 
 Study finds students absorb and comprehend only 45% of the curriculum
 Compared to first world nations, one of the main reasons for the lower of retention in sub saharan africa is due to the fact that students in developed nations have access to a wider range of resources such as the internet, more physical libraries, more knowledgable teaachers etc. 
-
+Directly affecting school completion rate as well
 
 
   
